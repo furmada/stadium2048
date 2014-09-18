@@ -323,7 +323,7 @@ hr {
 	background-image: url(../tile_set/2_Randall.jpg);
 	font-size: 0px; }
   .tile.tile-4 .tile-inner {
-	background-image: url(../tile_set/4_Roscoe.jpg);
+	background-image: url(../tile_set/4_Roscoe.JPG);
 	font-size: 0px;}
   .tile.tile-8 .tile-inner {
     background-image: url(../tile_set/8_Peirson.jpg);
@@ -332,7 +332,7 @@ hr {
     background-image: url(../tile_set/16_Elstein.jpg);
 	font-size: 0px; }
   .tile.tile-32 .tile-inner {
-    background-image: url(../tile_set/32_Fagan.png);
+    background-image: url(../tile_set/32_Fagan.PNG);
 	font-size: 0px; }
   .tile.tile-64 .tile-inner {
     background-image: url(../tile_set/64_Swanson.jpg);
