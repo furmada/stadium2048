@@ -338,19 +338,19 @@ hr {
     background-image: url(../tile_set/64_Swanson.jpg);
 	font-size: 0px; }
   .tile.tile-128 .tile-inner {
-    background-image: url(../tile_set/128_Kitten.jpg);
+    background-image: url(../tile_set/128_Lease.jpg);
 	font-size: 0px; }
     /* @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } } */ 
   .tile.tile-256 .tile-inner {
-    background-image: url(../tile_set/256_BabyTiger.jpg);
+    background-image: url(../tile_set/256_Bryant.jpg);
 	font-size: 0px; } 
     /* @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } } */
   .tile.tile-512 .tile-inner {
-    background-image: url(../tile_set/512_Tiger.jpg);
+    background-image: url(../tile_set/512_Walker.jpg);
 	font-size: 0px; } 
     /* @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
