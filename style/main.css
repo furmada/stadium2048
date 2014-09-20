@@ -322,51 +322,80 @@ hr {
   .tile.tile-2 .tile-inner {
 	background-image: url(../tile_set/2_Randall.jpg);
 	font-size: 0px; }
+	@media screen and (max-width: 520px) {
+      .tile.tile-2 .tile-inner {
+        background-image: url(../tile_set/2_Randall_small.jpg);
+		font-size: 0px; } }
   .tile.tile-4 .tile-inner {
 	background-image: url(../tile_set/4_Roscoe.JPG);
 	font-size: 0px;}
+	@media screen and (max-width: 520px) {
+      .tile.tile-4 .tile-inner {
+        background-image: url(../tile_set/4_Roscoe_small.jpg);
+		font-size: 0px; } }
   .tile.tile-8 .tile-inner {
     background-image: url(../tile_set/8_Peirson.jpg);
 	font-size: 0px; }
+	@media screen and (max-width: 520px) {
+      .tile.tile-8 .tile-inner {
+        background-image: url(../tile_set/8_Peirson_small.jpg);
+		font-size: 0px; } }
   .tile.tile-16 .tile-inner {
     background-image: url(../tile_set/16_Elstein.jpg);
 	font-size: 0px; }
+	@media screen and (max-width: 520px) {
+      .tile.tile-16 .tile-inner {
+        background-image: url(../tile_set/16_Elstein_small.jpg);
+		font-size: 0px; } }
   .tile.tile-32 .tile-inner {
     background-image: url(../tile_set/32_Fagan.jpg);
 	font-size: 0px; }
+	@media screen and (max-width: 520px) {
+      .tile.tile-32 .tile-inner {
+        background-image: url(../tile_set/32_Fagan_small.jpg);
+		font-size: 0px; } }
   .tile.tile-64 .tile-inner {
     background-image: url(../tile_set/64_Swanson.jpg);
 	font-size: 0px; }
+	@media screen and (max-width: 520px) {
+      .tile.tile-64 .tile-inner {
+        background-image: url(../tile_set/64_Swanson_small.jpg);
+		font-size: 0px; } }
   .tile.tile-128 .tile-inner {
     background-image: url(../tile_set/128_Lease.jpg);
 	font-size: 0px; }
-    /* @media screen and (max-width: 520px) {
+    @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
-        font-size: 25px; } } */ 
+        background-image: url(../tile_set/128_Lease_small.jpg);
+		font-size: 0px; } }
   .tile.tile-256 .tile-inner {
     background-image: url(../tile_set/256_Bryant.jpg);
 	font-size: 0px; } 
-    /* @media screen and (max-width: 520px) {
+    @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
-        font-size: 25px; } } */
+        background-image: url(../tile_set/256_Bryant_small.jpg);
+		font-size: 0px; } }
   .tile.tile-512 .tile-inner {
     background-image: url(../tile_set/512_Walker.jpg);
 	font-size: 0px; } 
-    /* @media screen and (max-width: 520px) {
+    @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        font-size: 25px; } } */
+        background-image: url(../tile_set/512_Walker_small.jpg);
+		font-size: 0px; } }
   .tile.tile-1024 .tile-inner {
    background-image: url(../tile_set/1024_StadiumBowl.jpg);
 	font-size: 0px; } 
-    /* @media screen and (max-width: 520px) {
+    @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
-        font-size: 15px; } } */
+        background-image: url(../tile_set/1024_StadiumBowl_small.jpg);
+		font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
     background-image: url(../tile_set/2048_Castle.jpg);
 	font-size: 0px; } 
-    /* @media screen and (max-width: 520px) {
+    @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
-        font-size: 15px; } } */
+        background-image: url(../tile_set/2048_Castle_small.jpg);
+		font-size: 0px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
